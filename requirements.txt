@@ -2,4 +2,4 @@ discord.py
 discord.py[voice]
 yt_dlp
 python-dotenv
-py nacl
+pynacl
